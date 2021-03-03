@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Places in the Heart</string>
+    <string name="edit_text_hint_title">Title</string>
+    <string name="edit_text_hint_description">Description</string>
+    <string name="edit_text_hint_date">Date</string>
+    <string name="edit_text_hint_location">Location</string>
+    <string name="text_add_image">ADD IMAGE</string>
+    <string name="btn_text_save">SAVE</string>
+    <string name="note_text_no_places_found_yet">No Places in the Heart saved yet. Why don\'t you add one?</string>
+    <string name="image_content_description">image</string>
+    <!-- The Google Maps API key. Do not share with nobody. -->
+    <string name="google_maps_api_key">AIzaSyB3f3D8qafEk7djVFlTWur5RdnBOSTDGc0</string>
+
+    <!-- Added the String values for a button of Place Detail Screen. -->
+    <string name="btn_text_view_on_map">VIEW ON MAP</string>
+
+    <!-- The string values are added here for Select current location. -->
+    <string name="add_place_select_current_location_text">SELECT CURRENT LOCATION</string>
+</resources>

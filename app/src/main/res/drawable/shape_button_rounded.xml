@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- XML file to shape the button in the activity_add_place.xml file. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/button_background_color" />
+
+    <corners android:radius="@dimen/button_radius" />
+</shape>
